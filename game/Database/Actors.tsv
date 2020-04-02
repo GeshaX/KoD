@@ -1,0 +1,44 @@
+#Object Name	Character Name	Affection	Level	XP	Stamina	HP	EP	STR	CON	RES	Skills	Weapon	Armor	Accessory	Extra Parts					
+### Main Characters ###																				
+Sabia	Sabia	0	1	0	200	400	10	40	40	40	None	Originalsword	Originalarmor	None						
+Lynn	Lynn	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Lutvrog	Lutvrog	0	10	0	200	120	10	120	120	52	None	Lutvrogsaxe	None	None	Wraps	Wrists				
+Neve	Neve	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Jadk	Jadk	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Dajrab	Dajrab	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Tekrok	Tekrok	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Rokgrid	Rokgrid	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Groknak	Groknak	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Maply	Maply	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Elmy	Elmy	0	1	0	200	20	10	0	0	0	None	None	None	None	Arm					
+Bris	Bris	0	1	0	200	20	10	0	0	0	None	None	None	None	Bra	Skirt	Stockings	Arm3		
+Vehlis	Vehlis	0	1	0	200	20	10	0	0	0	None	None	None	None	Arm1					
+Alioch	Alioch	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Ylva	Ylva	0	1	0	200	20	10	0	0	0	None	None	None	None	Arm2					
+Kia	Kia	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Kira	Kira	0	1	0	200	20	10	0	0	0	None	None	None	None	Armor	Arm2A				
+### Minor Characters ###																				
+Humansoldier	Soldier	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Orcshaman	Shaman	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Kulgan	Kulgan	0	1	0	200	20	10	0	0	0	None	None	None	None	Loincloth	Piercing	Strap	Shoulder	Wrap	Beard1
+Knorgath	Knorgath	0	1	0	200	20	10	0	0	0	None	None	None	None	Loincloth	Axe	Helmet	Necklace	Wrap	
+Barrin	Barrin	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Hessian	Hessian	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Avion	Avion	0	1	0	200	20	10	0	0	0	None	None	None	None	min weapon
+Flufftooth	Fluff Tooth	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Amelia	Amelia	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Fennasil	Fennasil	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Tijana	Tijana	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Priscilla	Priscilla	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Apothecary	Apothecary	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Elliah	Elliah	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Reina	Reina	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Tavernkeep	Tavernkeep	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Tentacle	Tentacle	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Banditgirl	Banditgirl	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Cook	Cook	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Dirtycook	Cook	0	1	0	200	20	10	0	0	0	None	None	None	None						
+Ellia	Ellia	0	1	0	200	20	10	0	0	0	None	None	None	None						
+###Generic Orcs. 1 = Green skin base, 2=dark skin base																				
+GenericOrc1	Orc	0	1	0	200	20	10	0	0	0	None	None	None	None	Loincloth					
+GenericOrc2	Orc	0	1	0	200	20	10	0	0	0	None	None	None	None	Loincloth					

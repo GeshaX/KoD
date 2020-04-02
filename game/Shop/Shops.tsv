@@ -1,0 +1,7 @@
+#Object Name	Shop Name	Background Image	Shop Owner	Owner Character	Text File	Pay Min,Max	Item,Price,Stock										
+Orcequipmentshop	Warchief Groknak's Tribe Equipment Store	bg/orcequipment.png	GenericOrc1	orc	Orcequipmentshop.txt	0,0	Knife,3,1	Rustysword,10,1									
+Orcclothshop	Warchief Groknak's Tribe Clothing Store	bg/orccloth.png	GenericOrc2	orc	Orcclothshop.txt	0,0	Leatherarmor,10,1	Barmaidclothes,15,1									
+Orcgeneralshop	Warchief Groknak's Tribe General Store	bg/orcequipment.png	GenericOrc1	orc	Orcgeneralshop.txt	0,0	Broom,1,1	Shovel,5,1									
+Elmyshop	Elmy's Ingredient Shop	bg/ingredientshop.png	Elmy	elmy	Elmyshop.txt	0,0	Grayleaf,25,∞	Firemoss,25,3	Steelshrooms,25,2	Vigorreeds,25,1	Obsidianbark,25,1	Hearttreesyrup,25,1	Tentacleslime,25,1	Rorchealthpotion,35,1	Renergypotion,55,1	Rhazewine,15,1	
+ElmyshopEnslaved	Elmy's Ingredient Shop	bg/ingredientshop.png	Elmy	elmy	ElmyshopEnslaved.txt	0,0	Grayleaf,35,∞	Firemoss,35,3	Steelshrooms,35,2	Vigorreeds,35,1	Obsidianbark,35,1	Hearttreesyrup,35,1	Tentacleslime,35,1	Rorchealthpotion,45,1	Renergypotion,65,1	Rhazewine,25,1	Rroyalgold,105,1
+Aliochshop	Vehlis' General Store	bg/aliochshop.png	Alioch	alioch	Aliochshop.txt	0,0	Cheapfood,100,1	Goodfood,150,1	Expensivefood,300,1	HGNBeer,50,1	HGNMead,60,1	HGNWine,75,1	Furnishings,110,1				

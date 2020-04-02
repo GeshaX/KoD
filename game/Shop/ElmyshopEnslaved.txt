@@ -1,0 +1,21 @@
+###
+#Declaring a new line of text(camps separated by tab): Action	Item Name	Text
+#Possible Actions(case sensitive, be careful): welcome, buy, leave, work, hover
+#Declaring a Welcome, Leave or Work text: you only need to fill the camps Action and Text. For this purpose, set Item Name as Null.
+#Declaring a work text: Keep in mind that after whatever you say here, the game will add how much you received at the end of the text automatically.
+#Declaring buy or hover texts: you need to fill all 3 camps. Fill the Item Name camp with the Item's name, NOT the Item Object Name.
+#You can do as many texts as you want in here, every action can have multiple texts, from 0 to infinity.
+#Each item for the buy or hover action can also have as many texts as you want.
+#The script will supply generic texts if no suitable ones are found in the text file.
+###
+welcome	Null	I'd rather serve all the orcs here than you, but I'll do my job. Tell me what you want and go.
+buy	Null	...I'll take your money.
+buy	Null	Enjoy your purchase and please get out now.
+hover	Grayleaf	Why don't you eat it and see what happens?
+hover	Steelshroom	I hate that I have to stock these because of you.
+hover	Vigor Reed	You should offer one to an orc.
+hover	Fire Moss	I recommend using this on your eyes.
+hover	Tentacle Slime	Go fight a tentacle monster and you'll get all the slime you want.
+hover	Obsidian Bark	Fine, just take all my rarest ingredients.
+hover	Heart Tree Syrup	This wouldn't be so rare if it weren't for people like you.
+leave	Null	Don't come back!

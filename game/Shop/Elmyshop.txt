@@ -1,0 +1,39 @@
+###
+#Declaring a new line of text(camps separated by tab): Action	Item Name	Text
+#Possible Actions(case sensitive, be careful): welcome, buy, leave, work, hover
+#Declaring a Welcome, Leave or Work text: you only need to fill the camps Action and Text. For this purpose, set Item Name as Null.
+#Declaring a work text: Keep in mind that after whatever you say here, the game will add how much you received at the end of the text automatically.
+#Declaring buy or hover texts: you need to fill all 3 camps. Fill the Item Name camp with the Item's name, NOT the Item Object Name.
+#You can do as many texts as you want in here, every action can have multiple texts, from 0 to infinity.
+#Each item for the buy or hover action can also have as many texts as you want.
+#The script will supply generic texts if no suitable ones are found in the text file.
+###
+welcome	Null	Hello Sabia! Let me know what ingredients you'd like!
+welcome	Null	If you want to make potions, you'll want to build an inventory of ingredients.
+welcome	Null	I'm still getting started, but I have some things you might want...
+buy	Grayleaf	Thanks! I grow it myself, so I can sell all the grayleaf you need.
+hover	Grayleaf	Only the highest quality leaves can be used for potions.
+buy	Fire Moss	Here you go, a batch of fire moss. Don't get it in your eyes!
+hover	Fire Moss	The colors really resemble fire don't they?
+hover	Fire Moss	Fire moss is the essence of health, so it's useful for many potions.
+hover	Fire Moss	Shamans are supposed to handle growing fire moss for orcs, but the local one isn't doing his job...
+buy	Steelshroom	There aren't many steelshrooms this far from human lands, but I'll sell you all I find!
+hover	Steelshroom	These aren't useful to us, but they should be healthy for humans.
+buy	Vigor Reed	Thank you for the purchase. Be careful not to overdose a potion with vigor reeds!
+hover	Vigor Reed	They chew these at the training grounds, but I really recommend refining them first.
+hover	Vigor Reed	The best vigor reeds are over the mountains to the west, but they can grow almost anywhere.
+hover	Obsidian Bark	Obsidian trees aren't very common around here. This is a hard ingredient to come by.
+buy	Heart Tree Syrup	Here you go. I assume you want it for potions, but you should try food cooked with it sometime!
+hover	Heart Tree Syrup	Doesn't it smell wonderful? I like having it in stock to make the air sweeter.
+hover	Heart Tree Syrup	They say heart trees were once common, but all the logging during wars has made them dwindle.
+buy	Tentacle Slime	Be careful with this! It was extracted from a living beast, so it's almost as potent as from the source.
+hover	Tentacle Slime	You'd think this would be common, but for some reason captured tentacle monsters don't produce it.
+hover	Tentacle Slime	Tentacle slime has a huge number of uses in different potions, but not in any of the common ones.
+hover	Tentacle Slime	It's getting hard to find this. Someone must be buying up a lot...
+hover	Orc Health Potion Recipe	Human health potions are very inefficient on orcs, and you probably won't be able to drink the orc version at all. But if you need to heal an orc, it will be invaluable.
+hover	Energy Potion Recipe	Drink that and you should be full of energy! It wears off quickly, though, so you'll need to drink it during the fight.
+hover	Haze Wine Recipe	You want Haze Wine for an Orc?
+buy	Haze Wine Recipe	...what you do with it is your business.
+hover	Royal Gold Recipe	I put some serious thought into trying to create what you wanted. You're going to need a base of heart tree syrup, a lot of venomnettle, and of course fire moss for the orcs.
+leave	Null	Thank you for buying from me. Take care!
+leave	Null	You are always welcome in my ingredient shop, please come again!

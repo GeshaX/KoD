@@ -1,0 +1,22 @@
+#Object Name	Equipment Name	Image	Type	Consumable	Combat	Defense	Raid	Diplomacy	Siege	Magic	Tags Added	Tags Subtracted	Description
+TCrudeaxes	Crude Axes	crudeaxes	Offense	No	1	0	0	0	0	0			Crude axes for troops.
+TIronaxes	Iron Axes	ironaxes	Offense	No	2	0	1	0	0	0			Iron axes for troops.
+TSteelaxes	Steel Axes	steelaxes	Offense	No	3	0	1	0	0	0			Steel axes for troops.
+TIronknives	Iron Knives	ironknives	Offense	No	1	0	2	0	-1	0			Iron knives for troops
+TSteelknives	Steel Knives	steelknives	Offense	No	2	0	3	0	-1	0			Steel knives for troops
+TCrudearmor	Crude Armor	crudearmor	Defense	No	0	1	0	0	0	0	Armored		Crude armor for troops
+TLeatherarmor	Leather Armor	leatherarmor	Defense	No	1	1	0	0	0	0	Armored		Leather armor for troops
+TIronarmor	Iron Armor	ironarmor	Defense	No	1	2	0	0	0	0	Armored		Something something
+TSteelarmor	Steel Armor	steelarmor	Defense	No	1	3	0	0	0	0	Armored		Something something
+THeavyarmor	Heavy Armor	heavyarmor	Defense	No	1	4	-5	0	0	-3	Armored	Fast	Something something
+TWarpaint	Warpaint	warpaint	Defense	No	2	2	0	-1	0	2		Armored	Something something
+TYounghellhounds	Young Hellhounds	younghellhounds	Utility	No	2	0	1	-5	0	0	Mounted		Something something
+THellhounds	Hellhounds	hellhounds	Utility	No	2	1	2	-2	0	0	Mounted		Something something
+TWintercoats	Winter Coats	wintercoats	Utility	No	0	1	0	0	0	0	Warm		Something something
+TForestcamouflage	Forest Camouflage	forestcamouflage	Utility	No	0	0	2	-1	0	0	Forest		Something something
+TBatteringram	Battering Ram	batteringram	Utility	No	0	-1	-2	-1	5	0			Something something
+TCombatpotions	Combat Potions	combatpotions	Accessory	No	3	-1	0	-1	-1	1			Something something
+TDefensepotions	Defense Potions	defensepotions	Accessory	No	-1	3	-1	-1	0	1			Something something
+TRaidingpotions	Raiding Potions	raidingpotions	Accessory	No	0	-1	3	-1	-1	1			Something something
+TTruceflag	Truce Flag	truceflag	Accessory	No	-2	-2	-1	5	-2	0			Something something
+TMagicamulets	Magic Amulets	magicamulets	Accessory	No	1	0	0	0	0	2			Something something

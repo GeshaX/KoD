@@ -1,0 +1,18 @@
+#Object Name	Type	Item Name	Sprite Image	Item Image	Base Cost	Attack	Phys. Defense	Mag. Defense	Skill	Description
+Stick	Weapon	Stick	stick	stick	0	0	0	0	None	Maybe you'd be better off using your hands...
+Lutvrogsaxe	Weapon	Lutvrog's Axe	axe	axe	0	25	15	0	Energyburn	Custom made and enchanted for Lutvrog's unique style. Very defensive.
+Heavyorcaxe	Weapon	Heavy Orc Axe	axe	axe	0	1	0	0	None	Heavy axe used by orcs.
+Originalarmor	Armor	Original Armor	basearmor	originalarmor	0	0	90	90	None	Sabia's initial armor. Enchanted and quite valuable.
+Originalsword	Weapon	Original Sword	originalsword	originalsword	0	90	0	0	None	Sabia's initial sword. Can easily sweep through an Orc's neck.
+Rags	Armor	Rags	baserags1	rags	0	0	0	0	None	At least you're covered. Barely.
+Ragbottom	Armor	Ragbottom	Ragbottom	rags	0	0	0	0	None	Even less covered than before.
+Leatherarmor	Armor	Leather Armor	generic1	leatherarmor	10	0	10	0	None	Better than rags, but this is nothing special.
+Orcslavearmor	Armor	Orc Slave Armor	orcslave1	orcslavearmor	0	0	10	10	None	Shows off your body as property.
+Barmaidclothes	Armor	Barmaid Clothes	baroutfit1	barmaidclothes	15	0	0	0	None	Sales are sure to go up if you wear this.
+Rustysword	Weapon	Rusty Sword	swordrusty	rustysword	10	5	0	0	Rustyedge	Barely better than using a stick.
+Silverblade	Weapon	Silver Blade	silverblade	silverblade	0	10	0	0	Silverslash	Old but well-cared for. Honed by magic.
+Orcaxe	Weapon	Orc Axe	orcaxe	orcaxe	0	15	0	0	Wildslash	A much lighter version than the regular Orc Axe.
+Orcring	Accessory	Orc Ring	orcring	orcring	0	5	0	0	Savageattack	Crude crafting but you can feel a tingle of magic from it.
+Catgirlring	Accessory	Catgirl Ring	catgirlring	catgirlring	0	5	0	-5	None	As expected from catgirls, it's a tight fit.
+Heavyleatherarmor	Armor	Heavy Leather Armor	generic1	leatherarmor	25	0	15	0	None	Heavier version of the Leather Armor improved in the arena.
+Exoticdancerclothes	Armor	Exotic Dancer Clothes	exoticdress	exoticdress	25	0	0	0	None	Exotic clothes for dancing that completely conceal the identity of the dancer.

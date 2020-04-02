@@ -1,0 +1,31 @@
+#Object Name	Type	Item Name	Image Base	Base Cost	Consumable	Description
+Broom	Key item	Broom	broom	1	No	Rough branches tied to a stick.
+Knife	Key item	Knife	knife	3	No	An essential tool for any soldier.
+Shovel	Key item	Shovel	shovel	5	No	A sturdy shovel.
+Grayleaf	Item	Grayleaf	grayleaf	25	No	Silvery gray leaf associated with catgirls.
+Firemoss	Item	Fire Moss	firemoss	25	No	An easily burned moss that grows in orc territory.
+Steelshrooms	Item	Steelshroom	steelshrooms	25	No	Unusually durable mushrooms native to central Lundar.
+Vigorreeds	Item	Vigor Reed	vigorreeds	25	No	An edible reed that primarily grows in the western mountains.
+Obsidianbark	Item	Obsidian Bark	obsidianbark	25	No	A tough bark that only grows on certain northern trees.
+Hearttreesyrup	Item	Heart Tree Syrup	hearttreesyrup	25	No	A rich syrup found only in the rarest of elven forests.
+Tentacleslime	Item	Tentacle Slime	tentacleslime	25	No	Extracted from tentacle monsters with a strange mix of properties.
+Venomnettle	Item	Venomnettle	venomnettle	0	No	A very stubborn weed.
+Cheapfood	Key item	Cheap Food	cheapfood	100	No	Cheap food for the Horned God's Night.
+Goodfood	Key item	Good Food	goodfood	150	No	Good food for the Horned God's Night.
+Expensivefood	Key item	Expensive Food	expensivefood	300	No	Good food for the Horned God's Night.
+HGNFood	Key item	Food	food	325	No	Large supply of food for the Horned God's Night.
+HGNBeer	Key item	Beer	beer	50	No	Beer for the Horned God's Night.
+HGNMead	Key item	Mead	mead	60	No	Mead for the Horned God's Night.
+HGNWine	Key item	Wine	wine	75	No	Wine for the Horned God's Night.
+Furnishings	Key item	Furnishings	furnishings	110	No	Furnishings for the Horned God's Night.
+HGNTent	Key item	Tent	tent	175	No	A tent of much higher quality than any other in the Orc Camp.
+Healthpotion	Item	Health Potion	healthpotion	50	Yes	A magical draught that restores health.
+Energypotion	Item	Energy Potion	energypotion	50	Yes	A magical draught that restores energy.
+Orchealthpotion	Item	Orc Health Potion	orchealthpotion	50	No	Only orcs can drink this and be healed by it.
+Hazewine	Item	Haze Wine	hazewine	50	No	Potent enough to make even the larger races dizzy.
+Royalgold	Item	Royal Gold	royalgold	60	No	A liquid mixture that can influence the mind to create bonds.
+Antlers	Key item	Antlers	antlers	0	No	An impressive rack of antlers from the deer near Groknak's camp.
+Whitehind	Key item	White Hind	whitehind	0	No	The exceptionally rare white hind, centerpiece of the Horned God's Night.
+Makhorbones	Key item	Makhor Bones	makhorbones	0	No	Cracked yet sturdy bones from a great beast.
+Tentfurnishings	Key item	Tent Furnishings	furnishings	400	No	New furnishings for the relief tents.
+Poisonpotion	Item	Poison Potion	poisonpotion	50	No	A weak but effective poison.

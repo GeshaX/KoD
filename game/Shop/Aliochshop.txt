@@ -1,0 +1,18 @@
+###
+#Declaring a new line of text(camps separated by tab): Action	Item Name	Text
+#Possible Actions(case sensitive, be careful): welcome, buy, leave, work, hover
+#Declaring a Welcome, Leave or Work text: you only need to fill the camps Action and Text. For this purpose, set Item Name as Null.
+#Declaring a work text: Keep in mind that after whatever you say here, the game will add how much you received at the end of the text automatically.
+#Declaring buy or hover texts: you need to fill all 3 camps. Fill the Item Name camp with the Item's name, NOT the Item Object Name.
+#You can do as many texts as you want in here, every action can have multiple texts, from 0 to infinity.
+#Each item for the buy or hover action can also have as many texts as you want.
+#The script will supply generic texts if no suitable ones are found in the text file.
+###
+buy	Cheap Food	Sabia purchased as much cheap food as she thought orcs might eat... then doubled it. Hopefully that would be enough from her.
+buy	Good Food	Sabia purchased as much food as she thought orcs might eat... then doubled it. Hopefully that would be enough from her.
+buy	Expensive Food	Sabia purchased as much food as she thought orcs might eat... then doubled it. She hoped they'd actually appreciate that she'd gotten them quality food instead of cheap garbage.
+buy	Beer	Sabia purchased a large quantity of beer and arranged for it to be brought during the festival.
+buy	Mead	Sabia purchased a large quantity of mead and arranged for it to be brought during the festival.
+buy	Wine	Sabia purchased a large quantity of wine and arranged for it to be brought during the festival.
+buy	Furnishings	Sabia bought a bunch of furs and rugs she thought would appeal to the orcs, plus some decent tables. Anything more would be wasted on them, but they ought to like this much.
+leave	Null	Mistress Vehlis is glad to have your business!

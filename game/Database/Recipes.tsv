@@ -1,0 +1,7 @@
+#Object Name	Type	Item Name	Image Base	Base Cost	Description	Output	Category	Components		
+Rhealthpotion	Recipe	Health Potion Recipe	Rhealthpotion	0	Recipe for crafting health potions.	Healthpotion	Potions	Steelshrooms,1	Firemoss,1	
+Rorchealthpotion	Recipe	Orc Health Potion Recipe	Rorchealthpotion	35	Recipe for crafting a health potion for orcs.	Orchealthpotion	Potions	Vigorreeds,1	Firemoss,1	
+Renergypotion	Recipe	Energy Potion Recipe	Renergypotion	55	Recipe for crafting a potion that grants a temporary energy boost.	Energypotion	Potions	Hearttreesyrup,1	Obsidianbark,1	
+Rroyalgold	Recipe	Royal Gold Recipe	Rroyalgold	95	Recipe for crafting a potion that influences the mind to create bonds.	Royalgold	Potions	Firemoss,1	Hearttreesyrup,1	Venomnettle,2
+Rhazewine	Recipe	Haze Wine Recipe	Rhazewine	15	Recipe for crafting a potion that dulls the mind.	Hazewine	Potions	Grayleaf,1	Tentacleslime,1	
+Rpoisonpotion	Recipe	Poison Recipe	Rpoisonpotion	15	Recipe for crafting a weak but effective poison.	Poisonpotion	Potions	Grayleaf,3	Venomnettle,2	

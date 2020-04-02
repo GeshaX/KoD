@@ -1,0 +1,16 @@
+###
+#Declaring a new line of text(camps separated by tab): Action	Item Name	Text
+#Possible Actions(case sensitive, be careful): welcome, buy, leave, work, hover
+#Declaring a Welcome, Leave or Work text: you only need to fill the camps Action and Text. For this purpose, set Item Name as Null.
+#Declaring a work text: Keep in mind that after whatever you say here, the game will add how much you received at the end of the text automatically.
+#Declaring buy or hover texts: you need to fill all 3 camps. Fill the Item Name camp with the Item's name, NOT the Item Object Name.
+#You can do as many texts as you want in here, every action can have multiple texts, from 0 to infinity.
+#Each item for the buy or hover action can also have as many texts as you want.
+#The script will supply generic texts if no suitable ones are found in the text file.
+###
+welcome	Null	Welcome to general shop!
+buy	Broom	Thank you for buying!
+hover	Broom	Me sell broom for very cheap!
+buy	Shovel	Thank you for buying!
+hover	Shovel	Is good shovel, will dig things well!
+leave	Null	Come again!

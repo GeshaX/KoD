@@ -1,0 +1,9 @@
+#Object Name	Troop Name	Combat	Defense	Raid	Diplomacy	Siege	Magic	Imgname	Tags
+Sabiasquad	Sabia's Squad	1	1	1	0	1	0	sabiaorcs	Orcs
+Tekrokorcs	Tekrok's Warriors	4	3	4	1	2	1	tekrokorcs	Orcs
+Rokgridorcs	Rokgrid's Warriors	3	2	1	4	4	1	rokgridorcs	Orcs
+Dajraborcs	Dajrab's Warriors	3	4	2	2	3	2	dajraborcs	Orcs
+Kulganorcs	Kulgan's Squad	3	3	2	1	1	0	kulganorcs	Orcs
+Catgirlrecruits	Catgirl Recruits	4	2	6	2	1	1	catgirlrecruits	Catgirls
+Catgirlallies	Catgirl Allies	5	2	5	2	1	1	catgirlallies	Catgirls
+Catgirlslaves	Enslaved Catgirls	3	2	3	0	1	1	catgirlslaves	Catgirls
